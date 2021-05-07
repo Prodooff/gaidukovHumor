@@ -6,7 +6,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: #479761;
+    background-color: #f4f4f4;
 }
 
 a {
@@ -64,9 +64,10 @@ a {
 
 .randomiser {
     display: flex;
-    background-color: #CEBC81;
+    background-color: #4B2E83;
     border-radius: 10px;
     border-radius: 5px;
+    color: white;
     padding: 10px 20px;
     text-decoration: none;
     margin: 20px;
@@ -98,7 +99,7 @@ a {
     padding-left: 20px;
     margin: 0px;
     margin-top: 10px;
-    color: rgb(51, 51, 51);
+    color: rgb(131, 125, 125);
 }
 
 #one h2 {
